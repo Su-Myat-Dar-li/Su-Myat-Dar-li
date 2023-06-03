@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Su-Myat-Dar-li
 - 👀 I’m interested in design and coding 
 - 🌱 I’m currently learning web design and web development
+- 🥳 I'm React Developer currently and I'm trying to become Full Stuck Developer.
 - 💞️ I’m looking to collaborate on UI/UX Designers and Web Developers
-- 📫 How to reach me...
+- 📫 How to reach me ...
 - 
 
 <!---
